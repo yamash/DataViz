@@ -1,2 +1,2 @@
 # DataViz
-Repo for Data Visualization course given by K.Benzi.
+Homeworks repo for Data Visualization course given by K.Benzi @ EPFL.
