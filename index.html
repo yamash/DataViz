@@ -93,19 +93,19 @@ use-site-title: true
             <h3> Total evolution </h3><br>
             <div>
 
-              <i class="fa fa-step-backward fa-3x" onclick="previous()"></i>&nbsp;&nbsp;&nbsp;
-              <i class="fa fa-play-circle fa-3x" onclick="play()"></i>&nbsp;&nbsp;&nbsp;
-              <i class="fa fa-pause-circle fa-3x" onclick="pause()"></i>&nbsp;&nbsp;&nbsp;
-              <i class="fa fa-step-forward fa-3x" onclick="next()"></i>&nbsp;&nbsp;&nbsp;
-              <i class="fa fa-stop-circle fa-3x" onclick="stop()"></i>
+              <i class="fa fa-step-backward fa-2x" onclick="previous()"></i>
+              <i class="fa fa-play-circle fa-2x" onclick="play()"></i>&nbsp;&nbsp;&nbsp;
+              <i class="fa fa-pause-circle fa-2x" onclick="pause()"></i>&nbsp;&nbsp;&nbsp;
+              <i class="fa fa-step-forward fa-x" onclick="next()"></i>&nbsp;&nbsp;&nbsp;
+              <i class="fa fa-stop-circle fa-2x" onclick="stop()"></i>
             </div>
             <br>
-            <img src="./web/imgs/1964.png" style="height:220px;" id="slideshow" alt="slideshow" />
+            <img src="./web/imgs/1964.png" style="width:400px;" id="slideshow" alt="slideshow" />
           </div>
 
           <div class="col-md-8">
-            <h3> <i class="icon-zoom-in"></i> Zoom into one year </h3>
-            <div class="form" style="margin-left:88px">
+            <h3>Zoom into one year</h3>
+            <div class="form">
               Year:<br>
               <input type="text" id="year" value="" style="width:100px">&nbsp;&nbsp;
               <button type="button" class="btn btn-default" onclick="changeDate()">
