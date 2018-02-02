@@ -6,4 +6,4 @@ title: About us
 
 We are two nice guys loving to play with data and interested to machine brain. 
 - [Arnaud Miribel](http://arnaud.ml): Research intern at Data Science Lab (EPFL)
-- [Yu Yamashita] (http://yamash.github.io): MSc Student in Communication Systems (EPFL)
+- [Yu Yamashita](http://yamash.github.io): MSc Student in Communication Systems (EPFL)
